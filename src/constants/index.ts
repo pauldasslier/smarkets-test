@@ -1,0 +1,1 @@
+export const EVENT_DATE_FORMAR = 'YYYY-MM-DD HH:mm';
