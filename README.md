@@ -2,6 +2,8 @@
 In this project I didn't use state manager (redux, mobx, etc) because it's inappropriate here.
 Text constants for comfortable interaction and extendability to internationalization placed in appropriate folder
 
+For enabling heroku proxy, don't forget click [request temporary access to the demo server](https://cors-anywhere.herokuapp.com/corsdemo)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
